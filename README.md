@@ -45,6 +45,7 @@ The system classifies answers into three categories:
 git clone https://github.com/reethikakalvacherla797-blip/LLM-Hallucination-Faithfulness-Detection.git
 ```
 
+
 ### 2. Navigate to the Project Folder
 
 ```bash
@@ -95,7 +96,7 @@ The Sun is a planet.
 
 ## 📂 Project Structure
 
-text```
+```text
 LLM-Hallucination-Faithfulness-Detection/
 │
 ├── app.py
@@ -126,5 +127,3 @@ It helps demonstrate how NLP and Natural Language Inference can be used to asses
 - Improve detection of subtle contradictions.
 - Add confidence scores and detailed explanations.
 - Integrate hallucination detection into a Retrieval-Augmented Generation (RAG) pipeline.
-
-
