@@ -1,0 +1,7 @@
+context,answer,actual_label,predicted_label
+The Sun is a star.,The Sun is a star.,SUPPORTED,SUPPORTED
+The Sun is a star.,The Sun is a planet.,CONTRADICTED,CONTRADICTED
+The company was founded in 2010.,The company has 500 employees.,INSUFFICIENT EVIDENCE,INSUFFICIENT EVIDENCE
+Water freezes at 0 degrees Celsius under standard conditions.,Water freezes at 0 degrees Celsius under standard conditions.,SUPPORTED,SUPPORTED
+The Earth has one natural moon.,The Earth has two natural moons.,CONTRADICTED,CONTRADICTED
+Python is a programming language.,Python was created in 1991.,INSUFFICIENT EVIDENCE,INSUFFICIENT EVIDENCE
