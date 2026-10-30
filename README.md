@@ -95,6 +95,7 @@ The Sun is a planet.
 
 ## 📂 Project Structure
 
+text```
 LLM-Hallucination-Faithfulness-Detection/
 │
 ├── app.py
@@ -103,7 +104,7 @@ LLM-Hallucination-Faithfulness-Detection/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
+```
 
 ## 🚀 Expected Outcome
 
